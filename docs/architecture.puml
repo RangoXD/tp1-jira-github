@@ -1,0 +1,4 @@
+@startuml
+actor Utilisateur
+Utilisateur -> PageAccueil : Accéder
+@enduml
